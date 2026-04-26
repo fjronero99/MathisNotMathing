@@ -1,7 +1,7 @@
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=11123381)
 # MathIsNotMathing
 ## By Fernando R. and Yonatan D.
-### cis103-S2023-finalproject
+### CIS 103-S2023-FinalProject
 
 ### What is it?
 This is a calculator for creating a function for rational equations with a discontinuance from an already existing graph. This calculator also visualizes the eqation to make sure it matches with what you started with.
