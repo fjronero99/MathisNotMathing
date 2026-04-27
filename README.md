@@ -1,7 +1,10 @@
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=11123381)
 # MathIsNotMathing
-## By Fernando R. and Yonatan D.
+## By Fernando R.
 ### cis103-S2023-finalproject
+
+### Project Demo
+https://drive.google.com/file/d/19OyB2vZRTZo7G0pAw7DzkqJp-0Efoqct/view?usp=sharing
 
 ### What is it?
 MathIsNotMathing is a Python-based calculator designed to generate and visualize rational equations based on user-defined asymptotes and discontinuities. The program allows users to input whether their graph includes only a vertical asymptote or both vertical and horizontal asymptotes, and then constructs a corresponding rational function. Using user inputs such as intercepts and discontinuities, the program dynamically builds the equation and graphs it for visualization.
